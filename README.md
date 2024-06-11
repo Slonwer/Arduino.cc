@@ -4,6 +4,10 @@ A linguagem de programação Arduino é uma variante da linguagem C/C++, especia
 
 ## Variáveis no Arduino
 
+<img src="https://www.makerzine.com.br/wp-content/uploads/2021/02/1024px-ArduinoLogo_%C2%AE.svg_.png" width="90%" height="90%">
+
+
+
 Existem diferentes tipos de variáveis suportadas pelo Arduino, incluindo:
 
 - `int` (inteiro): armazena números inteiros entre -32.768 e 32.767.
@@ -56,4 +60,6 @@ Outra aplicação prática de estruturas é a implementação de estruturas de d
  Essas estruturas de dados são essenciais em muitos algoritmos e aplicações, como algoritmos de classificação, sistemas de gerenciamento de filas, entre outros.
  Em resumo, as estruturas em C++ são uma ferramenta poderosa para a organização e manipulação de dados complexos em programas, proporcionando mais eficiência e clareza no código.
  Ao compreender o conceito de estruturas e aprender a sua utilização em vários contextos de programação, os alunos estarão melhor preparados para criar programas mais eficientes e organizados.`
+
+
 
